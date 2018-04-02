@@ -1,0 +1,10 @@
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\bin\Debug\AdvancedOperators.exe.config
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\bin\Debug\AdvancedOperators.exe
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\bin\Debug\AdvancedOperators.pdb
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\bin\Debug\AdvancedOperators.xml
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\obj\Debug\AdvancedOperators.Resources.resources
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\obj\Debug\AdvancedOperators.vbproj.GenerateResource.Cache
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\obj\Debug\AdvancedOperators.exe
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\obj\Debug\AdvancedOperators.xml
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\obj\Debug\AdvancedOperators.pdb
+c:\users\edward\documents\visual studio 2015\Projects\AdvancedOperators\AdvancedOperators\obj\Debug\AdvancedOperators.Form1.resources
